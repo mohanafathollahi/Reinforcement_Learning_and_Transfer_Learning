@@ -18,7 +18,6 @@ runsimlib
 logs_lineq_*/
 simp_tensorboard_*/
 .venv/
-*.png
 temp_cont_train_env145
 #pretrained models that should be ignored
 blob_models/*
